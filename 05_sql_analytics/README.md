@@ -1,4 +1,4 @@
-# Fase 5 · SQL analítico: segmentación, campañas y KPIs ejecutivos
+#  SQL analítico: segmentación, campañas y KPIs ejecutivos
 
 
 
