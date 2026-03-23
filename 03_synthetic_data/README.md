@@ -98,7 +98,7 @@ python synthetic_afore_funnel_generator.py
 
 ## Vistas útiles en SQLite
 
-* `VW\\\_FUNNEL\\\_STAGE\\\_SUMMARY`
-* `VW\\\_CAMPAIGN\\\_PERFORMANCE`
-* `VW\\\_ESTIMATED\\\_REVENUE`
+* `VW_FUNNEL_STAGE_SUMMARY`
+* `VW_CAMPAIGN_PERFORMANCE`
+* `VW_ESTIMATED_REVENUE`
 
