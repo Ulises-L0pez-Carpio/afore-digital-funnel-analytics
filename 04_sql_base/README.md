@@ -214,7 +214,7 @@ Al ejecutar correctamente esta fase se obtiene:
 Esta fase demuestra capacidad para:
 
 - validar calidad de datos en SQL;
-- aplicar lógica de limpieza y deduplicación;
+- aplicar lógica de limpieza y de duplicación;
 - integrar múltiples tablas del modelo;
 - construir una vista maestra con criterio analítico;
 - convertir eventos del funnel en métricas utilizables para negocio.
