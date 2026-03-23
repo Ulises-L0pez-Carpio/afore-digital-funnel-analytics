@@ -1,4 +1,4 @@
-\# Estructura del dashboard
+# Estructura del dashboard
 
 
 
@@ -6,7 +6,7 @@ Este documento describe la lógica de construcción del dashboard en Power BI de
 
 
 
-\## Objetivo de la estructura
+## Objetivo de la estructura
 
 
 
@@ -31,18 +31,17 @@ Por ello, el dashboard quedó organizado en cuatro páginas.
 \---
 
 
-
-\## Página 1 · Resumen ejecutivo del funnel digital
-
+## Página 1 · Resumen ejecutivo del funnel digital
 
 
-\### Propósito
+
+### Propósito
 
 Dar una lectura inmediata del funnel completo y de sus principales puntos de fuga.
 
 
 
-\### Elementos visibles
+### Elementos visibles
 
 \- selector de periodo;
 
@@ -68,7 +67,7 @@ Dar una lectura inmediata del funnel completo y de sus principales puntos de fug
 
 
 
-\### Qué responde esta página
+### Qué responde esta página
 
 \- ¿Qué tamaño tiene el funnel?
 
@@ -82,7 +81,7 @@ Dar una lectura inmediata del funnel completo y de sus principales puntos de fug
 
 
 
-\### Lógica de lectura
+### Lógica de lectura
 
 La página abre con KPI de volumen y resultado.  
 
@@ -92,7 +91,7 @@ Finalmente muestra el funnel completo y la evolución mensual para combinar lect
 
 
 
-\### Valor analítico
+### Valor analítico
 
 Esta página cumple la función de portada ejecutiva del dashboard.
 
@@ -102,17 +101,17 @@ Esta página cumple la función de portada ejecutiva del dashboard.
 
 
 
-\## Página 2 · Desempeño de campañas digitales
+## Página 2 · Desempeño de campañas digitales
 
 
 
-\### Propósito
+### Propósito
 
 Evaluar la contribución de campañas y canales al funnel, tanto en volumen como en activación e ingreso estimado.
 
 
 
-\### Elementos visibles
+### Elementos visibles
 
 \- filtros por canal y campaña;
 
@@ -144,7 +143,7 @@ Evaluar la contribución de campañas y canales al funnel, tanto en volumen como
 
 
 
-\### Qué responde esta página
+### Qué responde esta página
 
 \- ¿Qué campañas generan más ingreso estimado?
 
@@ -158,7 +157,7 @@ Evaluar la contribución de campañas y canales al funnel, tanto en volumen como
 
 
 
-\### Lógica de lectura
+### Lógica de lectura
 
 Primero se presenta una síntesis con el Top 5 por ingreso estimado.  
 
@@ -168,7 +167,7 @@ Finalmente se abren comparativos separados por journeys, leads, activaciones e i
 
 
 
-\### Decisiones de diseño
+### Decisiones de diseño
 
 \- uso de \*\*Top 5\*\* en los rankings más ejecutivos;
 
@@ -180,7 +179,7 @@ Finalmente se abren comparativos separados por journeys, leads, activaciones e i
 
 
 
-\### Valor analítico
+### Valor analítico
 
 Esta página conecta directamente el funnel con la lógica de adquisición y eficiencia comercial.
 
@@ -190,17 +189,17 @@ Esta página conecta directamente el funnel con la lógica de adquisición y efi
 
 
 
-\## Página 3 · Desempeño por segmentos
+## Página 3 · Desempeño por segmentos
 
 
 
-\### Propósito
+### Propósito
 
 Analizar cómo cambia la activación y el ingreso estimado según características del usuario y del contexto digital.
 
 
 
-\### Elementos visibles
+### Elementos visibles
 
 \- filtros por:
 
@@ -228,7 +227,7 @@ Analizar cómo cambia la activación y el ingreso estimado según característic
 
 
 
-\### Qué responde esta página
+### Qué responde esta página
 
 \- ¿Qué dispositivo convierte mejor?
 
@@ -242,7 +241,7 @@ Analizar cómo cambia la activación y el ingreso estimado según característic
 
 
 
-\### Lógica de lectura
+### Lógica de lectura
 
 La página inicia con filtros de perfil y contexto.  
 
@@ -254,7 +253,7 @@ Finalmente, el gráfico por rango de edad aporta una vista demográfica compleme
 
 
 
-\### Decisiones de diseño
+### Decisiones de diseño
 
 \- matriz con formato condicional para facilitar lectura comparativa;
 
@@ -264,7 +263,7 @@ Finalmente, el gráfico por rango de edad aporta una vista demográfica compleme
 
 
 
-\### Valor analítico
+### Valor analítico
 
 Esta página es la capa de segmentación del dashboard y ayuda a identificar perfiles y combinaciones con mayor valor analítico.
 
@@ -274,17 +273,17 @@ Esta página es la capa de segmentación del dashboard y ayuda a identificar per
 
 
 
-\## Página 4 · Activación y valor de negocio
+## Página 4 · Activación y valor de negocio
 
 
 
-\### Propósito
+### Propósito
 
 Cerrar el dashboard con una lectura de resultado final, permanencia inicial y valor económico estimado.
 
 
 
-\### Elementos visibles
+### Elementos visibles
 
 \- selector de periodo;
 
@@ -320,7 +319,7 @@ Cerrar el dashboard con una lectura de resultado final, permanencia inicial y va
 
 
 
-\### Qué responde esta página
+### Qué responde esta página
 
 \- ¿Cuántos usuarios activados realmente se retienen?
 
@@ -334,7 +333,7 @@ Cerrar el dashboard con una lectura de resultado final, permanencia inicial y va
 
 
 
-\### Lógica de lectura
+### Lógica de lectura
 
 La página abre con KPI de activación y retención.  
 
@@ -346,7 +345,7 @@ Finalmente ofrece detalle a nivel journey y un comparativo por canal de activaci
 
 
 
-\### Decisiones de diseño
+### Decisiones de diseño
 
 \- separación visual entre KPI de activación y KPI de valor;
 
@@ -356,7 +355,7 @@ Finalmente ofrece detalle a nivel journey y un comparativo por canal de activaci
 
 
 
-\### Valor analítico
+### Valor analítico
 
 Esta página cierra el dashboard en términos de negocio: no solo cuántos activan, sino cuánto valor estimado generan y qué tan sostenible parece esa activación en el corto plazo.
 
@@ -366,7 +365,7 @@ Esta página cierra el dashboard en términos de negocio: no solo cuántos activ
 
 
 
-\## Relación entre páginas
+## Relación entre páginas
 
 
 
@@ -388,7 +387,7 @@ Esto permite que el usuario pase de una lectura descriptiva a una lectura explic
 
 
 
-\## Conclusión de diseño
+## Conclusión de diseño
 
 
 
