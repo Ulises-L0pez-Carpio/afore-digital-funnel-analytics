@@ -2,7 +2,7 @@
 
 
 
-Este documento describe la lógica de construcción del dashboard en Power BI del caso \*\*Afore Digital Funnel Analytics\*\*.
+Este documento describe la lógica de construcción del dashboard en Power BI del caso **Afore Digital Funnel Analytics**.
 
 
 
@@ -28,7 +28,6 @@ Por ello, el dashboard quedó organizado en cuatro páginas.
 
 
 
-\---
 
 
 ## Página 1 · Resumen ejecutivo del funnel digital
@@ -96,8 +95,6 @@ Finalmente muestra el funnel completo y la evolución mensual para combinar lect
 Esta página cumple la función de portada ejecutiva del dashboard.
 
 
-
-\---
 
 
 
@@ -169,7 +166,7 @@ Finalmente se abren comparativos separados por journeys, leads, activaciones e i
 
 ### Decisiones de diseño
 
-\- uso de \*\*Top 5\*\* en los rankings más ejecutivos;
+\- uso de **Top 5** en los rankings más ejecutivos;
 
 \- tablas con formato condicional para ingreso estimado;
 
@@ -183,9 +180,6 @@ Finalmente se abren comparativos separados por journeys, leads, activaciones e i
 
 Esta página conecta directamente el funnel con la lógica de adquisición y eficiencia comercial.
 
-
-
-\---
 
 
 
@@ -266,10 +260,6 @@ Finalmente, el gráfico por rango de edad aporta una vista demográfica compleme
 ### Valor analítico
 
 Esta página es la capa de segmentación del dashboard y ayuda a identificar perfiles y combinaciones con mayor valor analítico.
-
-
-
-\---
 
 
 
@@ -361,9 +351,6 @@ Esta página cierra el dashboard en términos de negocio: no solo cuántos activ
 
 
 
-\---
-
-
 
 ## Relación entre páginas
 
@@ -373,13 +360,13 @@ La navegación del dashboard sigue esta secuencia:
 
 
 
-\- \*\*Página 1:\*\* visión global del funnel;
+\- **Página 1:** visión global del funnel;
 
-\- \*\*Página 2:\*\* diagnóstico de campañas;
+\- **Página 2:** diagnóstico de campañas;
 
-\- \*\*Página 3:\*\* diagnóstico por segmentos;
+\- **Página 3:** diagnóstico por segmentos;
 
-\- \*\*Página 4:\*\* resultado final y valor económico.
+\- **Página 4:** resultado final y valor económico.
 
 
 
