@@ -1,4 +1,4 @@
-# Fase 6 · Python: análisis exploratorio y visualizaciones
+# Python: análisis exploratorio y visualizaciones
 
 
 
