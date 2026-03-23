@@ -542,11 +542,11 @@ Esta fase se conecta directamente con:
 
 
 
-\- \[`../04\_sql\_base/`](../04\_sql\_base/) como base técnica previa del funnel;
+\- [`../04\_sql\_base/`](../04\_sql\_base/) como base técnica previa del funnel;
 
-\- \[`../06\_python\_eda/`](../06\_python\_eda/) para exploración visual complementaria;
+\- [`../06\_python\_eda/`](../06\_python\_eda/) para exploración visual complementaria;
 
-\- \[`../07\_powerbi\_dashboard/`](../08\_powerbi\_dashboard/) para el dashboard ejecutivo;
+\- [`../07\_powerbi\_dashboard/`](../08\_powerbi\_dashboard/) para el dashboard ejecutivo;
 
 
 
