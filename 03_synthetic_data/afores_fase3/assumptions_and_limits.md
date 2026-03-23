@@ -1,4 +1,4 @@
-# Assumptions and limits
+# Supuestos y límites
 
 
 
