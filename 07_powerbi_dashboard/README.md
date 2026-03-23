@@ -1,4 +1,4 @@
-\# Fase 8 · Dashboard ejecutivo en Power BI
+# Fase 8 · Dashboard ejecutivo en Power BI
 
 
 
@@ -10,7 +10,7 @@ El objetivo de esta fase es traducir el trabajo previo en SQL y Python a una her
 
 
 
-\## Propósito del dashboard
+## Propósito del dashboard
 
 
 
@@ -32,7 +32,7 @@ Esta estructura permite pasar de una lectura general a una lectura diagnóstica 
 
 
 
-\## Estructura del dashboard
+## Estructura del dashboard
 
 
 
@@ -40,7 +40,7 @@ El dashboard está compuesto por cuatro páginas:
 
 
 
-\### 1. Resumen ejecutivo del funnel digital
+### 1. Resumen ejecutivo del funnel digital
 
 Presenta la lectura global del embudo, incluyendo:
 
@@ -66,7 +66,7 @@ Presenta la lectura global del embudo, incluyendo:
 
 
 
-\### 2. Desempeño de campañas digitales
+### 2. Desempeño de campañas digitales
 
 Se enfoca en campañas y canales, con comparativos sobre:
 
@@ -94,7 +94,7 @@ Se enfoca en campañas y canales, con comparativos sobre:
 
 
 
-\### 3. Desempeño por segmentos
+### 3. Desempeño por segmentos
 
 Profundiza en diferencias entre perfiles y dimensiones analíticas clave:
 
@@ -118,7 +118,7 @@ Incluye además una matriz de desempeño por canal y dispositivo para detectar c
 
 
 
-\### 4. Activación y valor de negocio
+### 4. Activación y valor de negocio
 
 Se concentra en la etapa final del funnel y en el valor estimado posterior a la conversión:
 
@@ -146,7 +146,7 @@ Se concentra en la etapa final del funnel y en el valor estimado posterior a la 
 
 
 
-\## Enfoque visual
+## Enfoque visual
 
 
 
@@ -180,7 +180,7 @@ Se utilizaron además los siguientes criterios:
 
 
 
-\## Principales métricas mostradas
+## Principales métricas mostradas
 
 
 
@@ -220,7 +220,7 @@ Entre las métricas más relevantes del dashboard se encuentran:
 
 
 
-\## Lógica analítica del dashboard
+## Lógica analítica del dashboard
 
 
 
@@ -242,7 +242,7 @@ Por tanto, este entregable no es una visualización aislada, sino la capa ejecut
 
 
 
-\## Público objetivo
+## Público objetivo
 
 
 
@@ -260,7 +260,7 @@ El dashboard está pensado para:
 
 
 
-\## Archivos de esta carpeta
+## Archivos de esta carpeta
 
 
 
@@ -273,8 +273,7 @@ El dashboard está pensado para:
 \- `medidas\_dax\_clave.md`
 
 
-
-\## Relación con otras fases del proyecto
+## Relación con otras fases del proyecto
 
 
 
@@ -288,7 +287,7 @@ Esta fase se conecta directamente con:
 
 \- `../06\_python\_eda/`
 
-\## Nota
+## Nota
 
 
 
