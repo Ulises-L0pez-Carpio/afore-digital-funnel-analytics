@@ -1,0 +1,9 @@
+device_id,device_type,os_name,browser_name,app_web_type,is_mobile
+DV001,mobile,Android,Chrome,web,1
+DV002,mobile,iOS,Safari,web,1
+DV003,desktop,Windows,Chrome,web,0
+DV004,desktop,Windows,Edge,web,0
+DV005,desktop,macOS,Safari,web,0
+DV006,app,Android,InApp,app,1
+DV007,app,iOS,InApp,app,1
+DV008,tablet,iOS,Safari,web,1

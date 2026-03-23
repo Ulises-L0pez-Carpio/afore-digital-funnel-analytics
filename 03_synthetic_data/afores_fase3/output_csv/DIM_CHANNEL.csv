@@ -1,0 +1,9 @@
+channel_id,channel_group,channel_name,source,medium,is_paid,channel_status
+CH001,Search,Paid Search,google,cpc,1,active
+CH002,Search,Organic Search,google,organic,0,active
+CH003,Social,Paid Social,meta,paid_social,1,active
+CH004,Display,Programmatic Display,dv360,display,1,active
+CH005,CRM,Email,crm,email,0,active
+CH006,Referral,Referral,partners,referral,0,active
+CH007,Direct,Direct,direct,none,0,active
+CH008,App,App Push,app,push,0,active

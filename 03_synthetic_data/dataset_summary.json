@@ -1,0 +1,58 @@
+{
+  "brief_reference": "Optimización del funnel digital de registro y activación de ahorro voluntario en una Afore",
+  "row_counts": {
+    "prospects": 24000,
+    "journeys": 26952,
+    "sessions": 40059,
+    "events": 127285,
+    "leads": 3490,
+    "registrations_started": 1637,
+    "activations": 357
+  },
+  "stage_counts": {
+    "ST01": 26952,
+    "ST02": 19364,
+    "ST03": 3490,
+    "ST04": 2595,
+    "ST05": 1637,
+    "ST06": 534,
+    "ST07": 357,
+    "ST08": 197
+  },
+  "stage_rates_pct": {
+    "ST01": 100.0,
+    "ST02": 71.85,
+    "ST03": 12.95,
+    "ST04": 9.63,
+    "ST05": 6.07,
+    "ST06": 1.98,
+    "ST07": 1.32,
+    "ST08": 0.73
+  },
+  "channel_mix_pct": {
+    "CH001": 40.9,
+    "CH003": 21.7,
+    "CH002": 13.2,
+    "CH004": 7.8,
+    "CH007": 5.8,
+    "CH005": 5.7,
+    "CH006": 3.2,
+    "CH008": 1.6
+  },
+  "integrity_checks": {
+    "sessions_missing_journey": 0,
+    "events_missing_session": 0,
+    "events_missing_journey": 0,
+    "leads_missing_session": 0,
+    "regs_missing_lead": 0,
+    "acts_missing_reg": 0,
+    "journey_stage_missing_stage": 0,
+    "journey_end_before_start": 0
+  },
+  "generation_parameters": {
+    "seed": 42,
+    "prospects": 24000,
+    "date_start": "2025-01-01",
+    "date_end": "2025-12-31"
+  }
+}

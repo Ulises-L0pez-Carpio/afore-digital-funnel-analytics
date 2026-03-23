@@ -1,0 +1,19 @@
+campaign_id,channel_id,platform_campaign_key,campaign_name,campaign_type,objective,platform_name,start_date,end_date,budget_amount,cost_model,landing_page_url,campaign_status
+CP001,CH001,google_ads_001,SEM Brand Captación,search_brand,lead_gen,Google Ads,2025-01-09,2025-11-28,214328.94,CPC,https://www.aforesimulada.mx/search_brand/001,active
+CP002,CH001,google_ads_002,SEM No Brand Retiro,search_non_brand,lead_gen,Google Ads,2025-02-08,2025-12-31,322894.57,CPC,https://www.aforesimulada.mx/search_non_brand/002,active
+CP003,CH001,google_ads_003,SEM Ahorro Voluntario,search_non_brand,conversion,Google Ads,2025-01-19,2025-08-04,439761.39,CPC,https://www.aforesimulada.mx/search_non_brand/003,completed
+CP004,CH001,google_ads_004,SEM Competencia Afore,search_competitor,consideration,Google Ads,2025-03-08,2025-12-31,360147.01,CPC,https://www.aforesimulada.mx/search_competitor/004,active
+CP005,CH002,google_005,SEO Beneficios Afore,seo,awareness,Google,2025-02-16,2025-09-07,59542.45,NA,https://www.aforesimulada.mx/seo/005,completed
+CP006,CH002,google_006,SEO Ahorro Voluntario,seo,consideration,Google,2025-02-15,2025-10-21,111944.15,NA,https://www.aforesimulada.mx/seo/006,active
+CP007,CH003,meta_ads_007,Meta Prospecting Jóvenes,paid_social,awareness,Meta Ads,2025-03-12,2025-12-31,375559.88,CPM,https://www.aforesimulada.mx/paid_social/007,active
+CP008,CH003,meta_ads_008,Meta Lead Form Asalariados,paid_social,lead_gen,Meta Ads,2025-02-19,2025-11-08,125440.26,CPL,https://www.aforesimulada.mx/paid_social/008,active
+CP009,CH003,meta_ads_009,Meta Remarketing Registro,paid_social,conversion,Meta Ads,2025-01-09,2025-10-18,56803.25,CPC,https://www.aforesimulada.mx/paid_social/009,active
+CP010,CH004,dv360_010,Display Awareness Financiera,display,awareness,DV360,2025-03-19,2025-12-31,295299.05,CPM,https://www.aforesimulada.mx/display/010,active
+CP011,CH004,dv360_011,Display Remarketing Funnel,display,conversion,DV360,2025-01-15,2025-12-01,178900.91,CPM,https://www.aforesimulada.mx/display/011,active
+CP012,CH005,crm_012,Email Reactivación Lead,email,reengagement,CRM,2025-01-07,2025-12-31,108243.32,NA,https://www.aforesimulada.mx/email/012,active
+CP013,CH005,crm_013,Email Clientes Existentes,email,upsell,CRM,2025-03-03,2025-12-31,31410.26,NA,https://www.aforesimulada.mx/email/013,active
+CP014,CH006,partners_014,Referral Nómina,referral,lead_gen,Partners,2025-02-02,2025-10-26,48397.58,CPA,https://www.aforesimulada.mx/referral/014,active
+CP015,CH006,partners_015,Referral Marketplace,referral,consideration,Partners,2025-02-19,2025-09-15,316880.56,CPA,https://www.aforesimulada.mx/referral/015,completed
+CP016,CH007,direct_016,Tráfico Directo Sitio,direct,consideration,Direct,2025-03-25,2025-12-31,116426.07,NA,https://www.aforesimulada.mx/direct/016,active
+CP017,CH007,direct_017,Marca Directa,direct,conversion,Direct,2025-02-06,2025-10-04,50750.57,NA,https://www.aforesimulada.mx/direct/017,active
+CP018,CH008,app_crm_018,Push App Reactivación,push,reengagement,App CRM,2025-01-07,2025-09-30,30841.85,NA,https://www.aforesimulada.mx/push/018,completed

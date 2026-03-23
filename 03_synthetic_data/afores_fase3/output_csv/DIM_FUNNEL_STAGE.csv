@@ -1,0 +1,9 @@
+stage_id,stage_order,stage_name,stage_group,is_terminal,business_definition
+ST01,1,Atracción,Top Funnel,0,Llegada inicial por canal digital
+ST02,2,Interacción,Top Funnel,0,Interacción relevante con contenidos o CTA
+ST03,3,Generación de lead,Mid Funnel,0,Captura de datos de contacto
+ST04,4,Lead calificado,Mid Funnel,0,Lead validado por intención y calidad
+ST05,5,Inicio de registro,Bottom Funnel,0,Inicio formal del proceso de alta
+ST06,6,Registro completado,Bottom Funnel,0,Registro finalizado con validaciones
+ST07,7,Activación digital,Activation,0,Primer login y primera acción de valor
+ST08,8,Activación consolidada,Activation,1,Segunda acción relevante o retención temprana
