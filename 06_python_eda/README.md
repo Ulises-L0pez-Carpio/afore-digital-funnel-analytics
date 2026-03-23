@@ -2,7 +2,7 @@
 
 
 
-Esta carpeta contiene la fase de \*\*análisis exploratorio de datos (EDA)\*\* y visualización en Python del caso de estudio \*\*Afore Digital Funnel Analytics\*\*.
+Esta carpeta contiene la fase de **análisis exploratorio de datos (EDA)** y visualización en Python del caso de estudio **Afore Digital Funnel Analytics**.
 
 
 
@@ -42,7 +42,7 @@ El análisis se ejecuta sobre la base SQLite del proyecto (renombrada para el no
 
 
 
-\- `synthetic\_afore\_funnel.db`
+\- `synthetic_afore_funnel.db`
 
 
 
@@ -54,9 +54,9 @@ El script contempla dos rutas posibles para localizar la base y detiene la ejecu
 
 
 
-\- \[`01\_eda\_funnel\_afore.ipynb`](./01\_eda\_funnel\_afore.ipynb)
+\- [`01\_eda\_funnel\_afore.ipynb`](./01\_eda\_funnel\_afore.ipynb)
 
-\- \[`02\_eda\_funnel\_afore.py`](./02\_eda\_funnel\_afore.py)
+\- [`02\_eda\_funnel\_afore.py`](./02\_eda\_funnel\_afore.py)
 
 
 
@@ -66,7 +66,7 @@ El script contempla dos rutas posibles para localizar la base y detiene la ejecu
 
 
 
-El archivo `02\_eda\_funnel\_afore.py` implementa un flujo completo de análisis exploratorio y visualización. La lógica está organizada en nueve bloques principales.
+El archivo `02_eda_funnel_afore.py` implementa un flujo completo de análisis exploratorio y visualización. La lógica está organizada en nueve bloques principales.
 
 
 
@@ -86,13 +86,13 @@ Se cargan las tablas principales del caso desde SQLite:
 
 \- `conversions`
 
-\- `funnel\_events`
+\- `funnel_events`
 
-\- `FACT\_JOURNEY`
+\- `FACT_JOURNEY`
 
-\- `DIM\_CHANNEL`
+\- `DIM_CHANNEL`
 
-\- `DIM\_DEVICE`
+\- `DIM_DEVICE`
 
 
 
@@ -112,7 +112,7 @@ Se convierten columnas de fecha y timestamp a tipo datetime para permitir análi
 
 
 
-Se construye un dataset llamado `journey\_master` a partir de merges entre:
+Se construye un dataset llamado `journey_master` a partir de merges entre:
 
 
 
@@ -130,7 +130,7 @@ Se construye un dataset llamado `journey\_master` a partir de merges entre:
 
 
 
-La granularidad resultante es \*\*1 fila por `journey\_id`\*\*.
+La granularidad resultante es **1 fila por `journey_id`**.
 
 
 
@@ -162,7 +162,7 @@ Se validan:
 
 
 
-\- duplicados en `journey\_id`;
+\- duplicados en `journey_id`;
 
 \- nulos en columnas analíticas clave.
 
@@ -192,7 +192,7 @@ Además se construyen KPIs generales como:
 
 
 
-Se calcula el funnel completo a partir de `funnel\_events`, incluyendo:
+Se calcula el funnel completo a partir de `funnel_events`, incluyendo:
 
 
 
@@ -248,7 +248,7 @@ También se construye un comparativo por canal para evaluar engagement.
 
 
 
-A partir de `journey\_master` se generan tablas de desempeño por:
+A partir de `journey_master` se generan tablas de desempeño por:
 
 
 
@@ -342,7 +342,7 @@ Además se generan visualizaciones para:
 
 
 
-Se calcula el tiempo promedio y mediano entre etapas usando `time\_from\_previous\_stage\_minutes`.
+Se calcula el tiempo promedio y mediano entre etapas usando `time_from_previous_stage_minutes`.
 
 
 
@@ -374,29 +374,29 @@ Entre las variables más relevantes del análisis se encuentran:
 
 
 
-\- `channel\_name`
+\- `channel_name`
 
-\- `device\_type`
+\- `device_type`
 
-\- `campaign\_name`
+\- `campaign_name`
 
-\- `segment\_label`
+\- `segment_label`
 
-\- `intent\_band`
+\- `intent_band`
 
-\- `geo\_state`
+\- `geo_state`
 
-\- `lead\_quality\_score`
+\- `lead_quality_score`
 
-\- `is\_lead`
+\- `is_lead`
 
-\- `is\_registered`
+\- `is_registered`
 
-\- `is\_activated`
+\- `is_activated`
 
-\- `is\_consolidated`
+\- `is_consolidated`
 
-\- `estimated\_annual\_revenue`
+\- `estimated_annual_revenue`
 
 
 
@@ -462,11 +462,11 @@ Esta etapa demuestra capacidad para:
 
 
 
-1\. Colocar la base `synthetic\_afore\_funnel.db` en la ruta esperada.
+1\. Colocar la base `synthetic_afore_funnel.db` en la ruta esperada.
 
 2\. Instalar dependencias 
 
-3\. Ejecutar el notebook o el script `02\_eda\_funnel\_afore.py`.
+3\. Ejecutar el notebook o el script `02_eda_funnel_afore.py`.
 
 4\. Revisar tablas resumen, gráficas y hallazgos finales.
 
@@ -482,13 +482,13 @@ Esta fase se conecta directamente con:
 
 
 
-\- \[`../03\_synthetic\_data/`](../03\_synthetic\_data/) como origen de la base;
+\- [`../03\_synthetic\_data/`](../03\_synthetic\_data/) como origen de la base;
 
-\- \[`../04\_sql\_base/`](../04\_sql\_base/) como capa técnica base del funnel;
+\- [`../04\_sql\_base/`](../04\_sql\_base/) como capa técnica base del funnel;
 
-\- \[`../05\_sql\_analytics/`](../05\_sql\_analytics/) como capa SQL ejecutiva;
+\- [`../05\_sql\_analytics/`](../05\_sql\_analytics/) como capa SQL ejecutiva;
 
-\- \[`../07\_powerbi\_dashboard/`](../0\_powerbi\_dashboard/) para visualización ejecutiva en Power BI.
+\- [`../07\_powerbi\_dashboard/`](../08\_powerbi\_dashboard/) para visualización ejecutiva en Power BI.
 
 
 
@@ -496,9 +496,9 @@ Esta fase se conecta directamente con:
 
 
 
-\- \[Ver script Python del EDA](./02\_eda\_funnel\_afore.py)
+\- [Ver script Python del EDA](./02\_eda\_funnel\_afore.py)
 
-\- \[Ver notebook del EDA](./01\_eda\_funnel\_afore.ipynb)
+\- [Ver notebook del EDA](./01\_eda\_funnel\_afore.ipynb)
 
 
 
