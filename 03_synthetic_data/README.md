@@ -57,11 +57,11 @@ La simulación usa una ventana temporal de **2025-01-01 a 2025-12-31** y un enfo
    * ST08 Activación consolidada
 6. La activación consolidada genera un **proxy de revenue estimado** en la tabla/vista `conversions`:
 
-   * `estimated\\\_monthly\\\_contribution`
-   * `estimated\\\_12m\\\_balance`
-   * `estimated\\\_annual\\\_revenue`
+   * `estimated_monthly_contribution`
+   * `estimated_12m_balance`
+   * `estimated_annual_revenue`
 
-> Nota: ese revenue es una \\\*\\\*métrica proxy sintética\\\*\\\* para fines analíticos y de portafolio; no representa una economía real interna de una institución.
+> Nota: ese revenue es una **métrica proxy sintética** para fines analíticos y de portafolio; no representa una economía real interna de una institución.
 
 ## Tamaño de esta corrida
 
@@ -89,11 +89,11 @@ La simulación usa una ventana temporal de **2025-01-01 a 2025-12-31** y un enfo
 ## Cómo volver a generarlo
 
 ```bash
-python synthetic\\\_afore\\\_funnel\\\_generator.py \\\\
-  --prospects 24000 \\\\
-  --seed 42 \\\\
-  --output-dir synthetic\\\_afore\\\_output \\\\
-  --db-path synthetic\\\_afore\\\_output/synthetic\\\_afore\\\_funnel.db
+python synthetic_afore_funnel_generator.py 
+  --prospects 24000 
+  --seed 42 
+  --output-dir synthetic_afore_output 
+  --db-path synthetic_afore_output/synthetic_afore_funnel.db
 ```
 
 ## Vistas útiles en SQLite
