@@ -1,6 +1,6 @@
 #  Dataset sintético de funnel digital Afore
 
-Este paquete fue generado con base en el brief del caso y el DER del proyecto. El objetivo es simular un funnel digital realista para análisis de campañas, conversión, segmentación y activación en una Afore.
+Este dataset fue generado con base en el brief del caso y el DER del proyecto. El objetivo es simular un funnel digital realista para análisis de campañas, conversión, segmentación y activación en una Afore.
 
 ## Qué incluye
 
