@@ -1,4 +1,4 @@
-# Fase 4 · SQL base del funnel Afore
+# SQL base del funnel Afore
 
 Esta carpeta contiene la **base analítica inicial en SQL** del caso de estudio **Afore Digital Funnel Analytics**.
 
