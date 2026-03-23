@@ -39,7 +39,7 @@ Diseñar un marco analítico para medir, entender y optimizar el funnel digital 
 
 
 
-El proyecto se desarrolló de forma end-to-end en nueve etapas:
+El proyecto se desarrolló de forma end-to-end en siete etapas:
 
 
 
