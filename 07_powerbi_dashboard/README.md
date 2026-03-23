@@ -234,8 +234,6 @@ El dashboard se apoya en la lógica construida en fases previas del proyecto:
 
 \- **Fase 6**: análisis exploratorio y visualizaciones en Python;
 
-\- **Fase 7**: modelo predictivo básico.
-
 
 
 Por tanto, este entregable no es una visualización aislada, sino la capa ejecutiva del caso de estudio completo.
