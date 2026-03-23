@@ -14,7 +14,7 @@ Este dataset fue generado con base en el brief del caso y el DER del proyecto. E
   * `sessions.csv`
   * `funnel_events.csv`
   * `conversions.csv`
-* **Resumen de generación:** `dataset\\\_summary.json`
+* **Resumen de generación:** `dataset_summary.json`
 
 ## Lógica de simulación
 
