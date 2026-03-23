@@ -202,7 +202,7 @@ Entre los hallazgos más relevantes del proyecto destacan:
 
 ### Documentación del caso
 - [Resumen ejecutivo](01_business_case/resumen_ejecutivo.md)
-- [Brief del proyecto](01_business_case/brief_proyecto.pdf)
+- [Brief del proyecto](01_business_case/brief-proyecto.pdf)
 
 ### Modelo de datos
 - [Modelo de datos](02_data_model/README.md)
@@ -216,8 +216,8 @@ Entre los hallazgos más relevantes del proyecto destacan:
 
 ### Dashboard
 - [Dashboard en Power BI](07_powerbi_dashboard/README.md)
-- [Estructura del dashboard](07_powerbi_dashboard/estructura_dashboard.md)
-- [Medidas DAX clave](07_powerbi_dashboard/medidas_dax_clave.md)
+- [Estructura del dashboard](08_powerbi_dashboardestructura_dashboard.md)
+- [Medidas DAX clave](08_powerbi_dashboardmedidas_dax_clave.md)
 
 
 ## Valor del proyecto para portafolio
