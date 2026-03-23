@@ -1,16 +1,13 @@
 # Resumen ejecutivo
 
 
-
 ## Visión general
-
 
 
 Este proyecto desarrolla un caso de estudio de analítica de negocio orientado al sector financiero digital, específicamente al análisis del funnel de captación, registro y activación de clientes en una Afore. El caso se plantea como un ejercicio de portafolio profesional y preparación para entrevistas, por lo que utiliza un enfoque semi hipotético, técnicamente sólido y alineado con problemáticas reales de adquisición y conversión en servicios financieros.
 
 
-
-\## Problema de negocio
+## Problema de negocio
 
 
 
@@ -18,7 +15,7 @@ En canales digitales financieros, generar tráfico o leads no garantiza conversi
 
 
 
-\## Objetivo del proyecto
+## Objetivo del proyecto
 
 
 
@@ -26,19 +23,19 @@ Diseñar un marco analítico para medir, entender y optimizar el funnel digital 
 
 
 
-\- identificar puntos de fuga;
+- identificar puntos de fuga;
 
-\- evaluar el desempeño de campañas digitales;
+- evaluar el desempeño de campañas digitales;
 
-\- segmentar usuarios según variables relevantes de negocio y comportamiento;
+- segmentar usuarios según variables relevantes de negocio y comportamiento;
 
-\- construir KPIs ejecutivos;
+- construir KPIs ejecutivos;
 
-\- traducir los hallazgos en un dashboard útil para la toma de decisiones.
+- traducir los hallazgos en un dashboard útil para la toma de decisiones.
 
 
 
-\## Enfoque analítico
+## Enfoque analítico
 
 
 
@@ -66,7 +63,7 @@ El proyecto se desarrolló de forma end-to-end en nueve etapas:
 
 
 
-\## Definición del funnel
+## Definición del funnel
 
 
 
@@ -96,7 +93,7 @@ Esta estructura permite analizar el proceso no solo desde la captación, sino ta
 
 
 
-\## Principales preguntas de negocio
+## Principales preguntas de negocio
 
 
 
@@ -118,7 +115,7 @@ El caso busca responder preguntas como:
 
 
 
-\## Hipótesis de trabajo
+## Hipótesis de trabajo
 
 
 
@@ -138,7 +135,7 @@ El análisis parte de varias hipótesis clave:
 
 
 
-\## Herramientas utilizadas
+## Herramientas utilizadas
 
 
 
@@ -152,7 +149,7 @@ El análisis parte de varias hipótesis clave:
 
 
 
-\## Valor del proyecto
+## Valor del proyecto
 
 
 
@@ -160,7 +157,7 @@ El valor principal del caso radica en transformar un proceso digital disperso en
 
 
 
-\## Entregables principales
+## Entregables principales
 
 
 
@@ -182,7 +179,7 @@ El valor principal del caso radica en transformar un proceso digital disperso en
 
 
 
-\## Aplicación profesional
+## Aplicación profesional
 
 
 
