@@ -40,7 +40,7 @@ Después de construir la base del funnel en la fase 4, esta etapa busca responde
 
 \- **Motor asumido:** SQLite
 
-\- **Unidad base del análisis:** `journey\_id`
+\- **Unidad base del análisis:** `journey_id`
 
 
 
