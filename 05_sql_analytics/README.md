@@ -2,7 +2,7 @@
 
 
 
-Esta carpeta contiene el bloque de \*\*SQL analítico orientado a negocio\*\* del caso de estudio \*\*Afore Digital Funnel Analytics\*\*.
+Esta carpeta contiene el bloque de **SQL analítico orientado a negocio** del caso de estudio **Afore Digital Funnel Analytics**.
 
 
 
@@ -38,9 +38,9 @@ Después de construir la base del funnel en la fase 4, esta etapa busca responde
 
 
 
-\- \*\*Motor asumido:\*\* SQLite
+\- **Motor asumido:** SQLite
 
-\- \*\*Unidad base del análisis:\*\* `journey\_id`
+\- **Unidad base del análisis:** `journey\_id`
 
 
 
@@ -52,7 +52,7 @@ Aunque la mayor parte del análisis se resume a nivel de journey, el script tamb
 
 
 
-\- \[`05\_sql\_analytics\_funnel\_afore.sql`](./05\_sql\_analytics\_funnel\_afore.sql)
+\- [`05\_sql\_analytics\_funnel\_afore.sql`](./05\_sql\_analytics\_funnel\_afore.sql)
 
 
 
@@ -68,11 +68,11 @@ El archivo está dividido en doce bloques analíticos principales.
 
 
 
-Se crea una vista temporal llamada `vw\_journey\_base`.
+Se crea una vista temporal llamada `vw_journey_base`.
 
 
 
-Esta vista concentra, por `journey\_id`:
+Esta vista concentra, por `journey_id`:
 
 
 
@@ -162,7 +162,7 @@ Este análisis ayuda a detectar fricciones de experiencia digital, especialmente
 
 
 
-Analiza diferencias por `geo\_state`, filtrando regiones con al menos 100 journeys para evitar conclusiones sobre muestras demasiado pequeñas.
+Analiza diferencias por `geo_state`, filtrando regiones con al menos 100 journeys para evitar conclusiones sobre muestras demasiado pequeñas.
 
 
 
@@ -244,7 +244,7 @@ Este bloque permite pasar de una lectura de conversión a una lectura de \*\*val
 
 
 
-Usa `budget\_amount` como costo estimado de campaña para calcular:
+Usa `budget_amount` como costo estimado de campaña para calcular:
 
 
 
@@ -272,7 +272,7 @@ Clasifica campañas con base en:
 
 \- tasa de calificación;
 
-\- `lead\_quality\_score` promedio;
+\- `lead_quality_score` promedio;
 
 \- tasa lead → activación;
 
@@ -450,29 +450,29 @@ Entre las métricas calculadas en este bloque destacan:
 
 
 
-\- `visit\_to\_lead\_rate\_pct`
+\- `visit_to_lead_rate_pct`
 
-\- `lead\_qualification\_rate\_pct`
+\- `lead_qualification_rate_pct`
 
-\- `lead\_to\_registration\_rate\_pct`
+\- `lead_to_registration_rate_pct`
 
-\- `registration\_to\_activation\_rate\_pct`
+\- `registration_to_activation_rate_pct`
 
-\- `end\_to\_end\_activation\_rate\_pct`
+\- `end_to_end_activation_rate_pct`
 
-\- `activation\_to\_consolidation\_rate\_pct`
+\- `activation_to_consolidation_rate_pct`
 
-\- `annual\_revenue`
+\- `annual_revenue`
 
-\- `revenue\_per\_activation`
+\- `revenue_per_activation`
 
-\- `cost\_per\_lead`
+\- `cost_per_lead`
 
-\- `cost\_per\_registration`
+\- `cost_per_registration`
 
-\- `cost\_per\_activation`
+\- `cost_per_activation`
 
-\- `roas\_ratio`
+\- `roas_ratio`
 
 
 
