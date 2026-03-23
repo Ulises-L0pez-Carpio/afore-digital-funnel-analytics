@@ -68,7 +68,6 @@ Se crean vistas temporales limpias para:
 
 Aunque la base sintética no presenta duplicados duros severos, el script deja implementada la lógica de deduplicación como si se tratara de un entorno productivo.
 
-Esto es importante porque demuestra criterio de preparación de datos y no solo ejecución de consultas descriptivas.
 
 ### 4. Joins principales auxiliares
 
