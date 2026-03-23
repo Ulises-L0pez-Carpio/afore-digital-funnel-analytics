@@ -2,7 +2,7 @@
 
 
 
-Esta carpeta contiene el dashboard en Power BI del caso de estudio \*\*Afore Digital Funnel Analytics\*\*.
+Esta carpeta contiene el dashboard en Power BI del caso de estudio **Afore Digital Funnel Analytics**.
 
 
 
@@ -18,13 +18,13 @@ El dashboard fue diseñado para responder cuatro niveles de lectura de negocio:
 
 
 
-1\. \*\*visión general del funnel\*\*;
+1\. **visión general del funnel**;
 
-2\. \*\*desempeño de campañas\*\*;
+2\. **desempeño de campañas**;
 
-3\. \*\*desempeño por segmentos\*\*;
+3\. **desempeño por segmentos**;
 
-4\. \*\*activación y valor económico final\*\*.
+4\. **activación y valor económico final**.
 
 
 
@@ -168,7 +168,7 @@ Se utilizaron además los siguientes criterios:
 
 
 
-\- comparativos en \*\*Top 5\*\* cuando la visualización requería síntesis;
+\- comparativos en **Top 5** cuando la visualización requería síntesis;
 
 \- orden descendente en gráficos de barras;
 
@@ -228,13 +228,13 @@ El dashboard se apoya en la lógica construida en fases previas del proyecto:
 
 
 
-\- \*\*Fase 4\*\*: base SQL del funnel;
+\- **Fase 4**: base SQL del funnel;
 
-\- \*\*Fase 5\*\*: SQL analítico para campañas, segmentos y KPIs ejecutivos;
+\- **Fase 5**: SQL analítico para campañas, segmentos y KPIs ejecutivos;
 
-\- \*\*Fase 6\*\*: análisis exploratorio y visualizaciones en Python;
+\- **Fase 6**: análisis exploratorio y visualizaciones en Python;
 
-\- \*\*Fase 7\*\*: modelo predictivo básico.
+\- **Fase 7**: modelo predictivo básico.
 
 
 
@@ -264,13 +264,13 @@ El dashboard está pensado para:
 
 
 
-\- `afore\_funnel\_dashboard.pbix`
+\- `afore_funnel_dashboard.pbix`
 
 \- `README.md`
 
-\- `estructura\_dashboard.md`
+\- `estructura_dashboard.md`
 
-\- `medidas\_dax\_clave.md`
+\- `medidas_dax_clave.md`
 
 
 ## Relación con otras fases del proyecto
@@ -280,12 +280,12 @@ El dashboard está pensado para:
 Esta fase se conecta directamente con:
 
 
+\- [`../04\_sql\_base/`](../04\_sql\_base/) como capa técnica base del funnel;
 
-\- `../04\_sql\_base/`
+\- [`../05\_sql\_analytics/`](../05\_sql\_analytics/) como capa SQL ejecutiva;
 
-\- `../05\_sql\_analytics/`
+\- [`../06\_python\_eda/`](../06\_python\_eda/) como capa SQL ejecutiva;
 
-\- `../06\_python\_eda/`
 
 ## Nota
 
