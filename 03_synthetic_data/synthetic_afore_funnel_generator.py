@@ -1,14 +1,14 @@
 
 #!/usr/bin/env python3
 """
-Synthetic digital funnel dataset generator for an Afore use case.
+Generador de conjuntos de datos sintéticos para funnels digitales, para un caso de uso de Afore.
 
-Outputs:
-- Full star-schema tables aligned to the provided DER
-- Convenience tables: users, campaigns, sessions, funnel_events, conversions
-- SQLite database with core tables + analytical views
-- CSV exports for each table
-- JSON summary with row counts and funnel metrics
+Resultados:
+- Tablas completas con esquema de estrella, alineadas con el DER del proyecto.
+- Tablas de conveniencia: usuarios, campañas, sesiones, eventos del embudo, conversiones.
+- Base de datos SQLite con tablas principales y vistas analíticas.
+- Exportaciones CSV para cada tabla.
+- Resumen JSON con recuentos de filas y métricas del embudo.
 """
 
 from __future__ import annotations
