@@ -448,7 +448,7 @@ FROM vw_journey_base;
 /* =========================================================
    11) TOP CAMPAÑAS EJECUTIVAS
    ---------------------------------------------------------
-   Query extra recomendado para presentación:
+   Query extra recomendado :
    ranking rápido de campañas por revenue y activación.
    ========================================================= */
 
