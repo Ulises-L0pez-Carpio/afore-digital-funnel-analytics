@@ -488,7 +488,7 @@ Esta fase se conecta directamente con:
 
 \- [`../05\_sql\_analytics/`](../05\_sql\_analytics/) como capa SQL ejecutiva;
 
-\- [`../07\_powerbi\_dashboard/`](../08\_powerbi\_dashboard/) para visualización ejecutiva en Power BI.
+\- [`../07\_powerbi\_dashboard/`](../07\_powerbi\_dashboard/) para visualización ejecutiva en Power BI.
 
 
 
