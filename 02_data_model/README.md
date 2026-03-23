@@ -264,12 +264,6 @@ Esto facilita análisis de:
 - desempeño por dispositivo;
 - activación posterior al registro.
 
-## Documentación complementaria
-
-- [Diccionario de datos](./diccionario_datos.pdf)
-- [Reglas de calidad de datos](./reglas_calidad_datos.md)
-- [Versión PDF del DER](./der.pdf)
-- [Imagen del modelo](../assets/data_model/der.png)
 
 ## Nota
 
