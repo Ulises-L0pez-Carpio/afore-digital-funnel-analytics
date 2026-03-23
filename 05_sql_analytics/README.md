@@ -1,4 +1,4 @@
-\# Fase 5 · SQL analítico: segmentación, campañas y KPIs ejecutivos
+# Fase 5 · SQL analítico: segmentación, campañas y KPIs ejecutivos
 
 
 
@@ -10,7 +10,7 @@ El objetivo de esta fase es traducir la base técnica del funnel a preguntas eje
 
 
 
-\## Objetivo de la fase
+## Objetivo de la fase
 
 
 
@@ -34,7 +34,7 @@ Después de construir la base del funnel en la fase 4, esta etapa busca responde
 
 
 
-\## Motor y unidad de análisis
+## Motor y unidad de análisis
 
 
 
@@ -48,7 +48,7 @@ Aunque la mayor parte del análisis se resume a nivel de journey, el script tamb
 
 
 
-\## Archivo principal
+## Archivo principal
 
 
 
@@ -56,7 +56,7 @@ Aunque la mayor parte del análisis se resume a nivel de journey, el script tamb
 
 
 
-\## Estructura del script
+## Estructura del script
 
 
 
@@ -64,7 +64,7 @@ El archivo está dividido en doce bloques analíticos principales.
 
 
 
-\### 0. Capa base analítica reutilizable
+### 0. Capa base analítica reutilizable
 
 
 
@@ -98,11 +98,11 @@ Esta vista sirve como capa base del resto del bloque y evita repetir la misma l�
 
 
 
-\## Bloques analíticos incluidos
+## Bloques analíticos incluidos
 
 
 
-\### 1. Conversión por canal
+### 1. Conversión por canal
 
 
 
@@ -128,7 +128,7 @@ Este bloque permite identificar qué fuentes de adquisición no solo aportan vol
 
 
 
-\### 2. Conversión por dispositivo
+### 2. Conversión por dispositivo
 
 
 
@@ -158,7 +158,7 @@ Este análisis ayuda a detectar fricciones de experiencia digital, especialmente
 
 
 
-\### 3. Conversión por región
+### 3. Conversión por región
 
 
 
@@ -182,7 +182,7 @@ Este bloque sirve para identificar variaciones geográficas en:
 
 
 
-\### 4. Análisis por tipo de usuario y segmento
+### 4. Análisis por tipo de usuario y segmento
 
 
 
@@ -218,7 +218,7 @@ Este análisis es especialmente útil para entender qué perfiles de usuario pre
 
 
 
-\### 5. Revenue por canal
+### 5. Revenue por canal
 
 
 
@@ -240,7 +240,7 @@ Este bloque permite pasar de una lectura de conversión a una lectura de \*\*val
 
 
 
-\### 6. Costo por conversión por campaña
+### 6. Costo por conversión por campaña
 
 
 
@@ -262,7 +262,7 @@ Este bloque permite evaluar la eficiencia de inversión publicitaria de forma co
 
 
 
-\### 7. Calidad de campaña
+### 7. Calidad de campaña
 
 
 
@@ -298,7 +298,7 @@ Este bloque es muy valioso para separar campañas de alto volumen de campañas d
 
 
 
-\### 8. Calidad de engagement por campaña
+### 8. Calidad de engagement por campaña
 
 
 
@@ -320,7 +320,7 @@ Este análisis ayuda a evaluar si la campaña genera solo tráfico o también in
 
 
 
-\### 9. Comparativo temporal mensual
+### 9. Comparativo temporal mensual
 
 
 
@@ -346,7 +346,7 @@ Este bloque permite observar tendencias y comparativos temporales en desempeño 
 
 
 
-\### 10. KPI ejecutivo general
+### 10. KPI ejecutivo general
 
 
 
@@ -376,7 +376,7 @@ Este bloque funciona como base conceptual para la página ejecutiva del dashboar
 
 
 
-\### 11. Top campañas ejecutivas
+### 11. Top campañas ejecutivas
 
 
 
@@ -398,7 +398,7 @@ Su propósito es identificar campañas prioritarias desde la perspectiva de nego
 
 
 
-\### 12. Resumen ejecutivo por segmento
+### 12. Resumen ejecutivo por segmento
 
 
 
@@ -420,7 +420,7 @@ Este bloque facilita una lectura estratégica sobre qué perfiles deberían reci
 
 
 
-\## Preguntas de negocio que responde esta fase
+## Preguntas de negocio que responde esta fase
 
 
 
@@ -442,7 +442,7 @@ La fase 5 permite responder, de forma estructurada, preguntas clave como:
 
 
 
-\## Métricas principales utilizadas
+## Métricas principales utilizadas
 
 
 
@@ -476,7 +476,7 @@ Entre las métricas calculadas en este bloque destacan:
 
 
 
-\## Valor analítico de esta fase
+## Valor analítico de esta fase
 
 
 
@@ -496,7 +496,7 @@ Esta fase demuestra capacidad para:
 
 
 
-\## Cómo ejecutar esta fase
+## Cómo ejecutar esta fase
 
 
 
@@ -512,7 +512,7 @@ Esta fase demuestra capacidad para:
 
 
 
-\## Resultados esperados
+## Resultados esperados
 
 
 
@@ -534,7 +534,7 @@ Al ejecutar correctamente esta fase se obtiene:
 
 
 
-\## Relación con otras fases del proyecto
+## Relación con otras fases del proyecto
 
 
 
@@ -550,7 +550,7 @@ Esta fase se conecta directamente con:
 
 
 
-\## Archivo relacionado
+## Archivo relacionado
 
 
 
@@ -558,7 +558,7 @@ Esta fase se conecta directamente con:
 
 
 
-\## Nota
+## Nota
 
 
 
