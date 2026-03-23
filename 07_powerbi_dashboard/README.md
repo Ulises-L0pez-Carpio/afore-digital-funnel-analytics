@@ -1,4 +1,4 @@
-# Fase 8 · Dashboard ejecutivo en Power BI
+# Dashboard ejecutivo en Power BI
 
 
 
