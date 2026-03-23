@@ -89,11 +89,11 @@ La simulación usa una ventana temporal de **2025-01-01 a 2025-12-31** y un enfo
 ## Cómo volver a generarlo
 
 ```bash
-python synthetic_afore_funnel_generator.py 
-  --prospects 24000 
-  --seed 42 
-  --output-dir synthetic_afore_output 
-  --db-path synthetic_afore_output/synthetic_afore_funnel.db
+python synthetic\\\\_afore\\\\_funnel\\\\_generator.py \\\\\
+  --prospects 24000 \\\\\
+  --seed 42 \\\\\
+  --output-dir synthetic\\\\_afore\\\\_output \\\\\
+  --db-path synthetic\\\\_afore\\\\_output/synthetic\\\\_afore\\\\_funnel.db
 ```
 
 ## Vistas útiles en SQLite
