@@ -172,9 +172,6 @@ El valor principal del caso radica en transformar un proceso digital disperso en
 
 \- Dashboard en Power BI
 
-\- Guion de storytelling para entrevista
-
-
 
 ## Aplicación profesional
 
