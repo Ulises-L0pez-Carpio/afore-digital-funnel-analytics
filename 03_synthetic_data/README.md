@@ -5,14 +5,14 @@ Este dataset fue generado con base en el brief del caso y el DER del proyecto. E
 ## Qué incluye
 
 * **Script principal:** `synthetic_afore_funnel_generator.py`
-* **Base SQLite:** `synthetic\\\_afore\\\_funnel.db`
+* **Base SQLite:** `synthetic_afore_funnel.db`
 * **CSVs del esquema completo del DER**
 * **CSVs simplificados** para análisis rápido:
 
   * `users.csv`
   * `campaigns.csv`
   * `sessions.csv`
-  * `funnel\\\_events.csv`
+  * `funnel_events.csv`
   * `conversions.csv`
 * **Resumen de generación:** `dataset\\\_summary.json`
 
