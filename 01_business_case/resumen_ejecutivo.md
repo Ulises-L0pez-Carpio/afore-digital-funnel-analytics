@@ -4,7 +4,7 @@
 ## Visión general
 
 
-Este proyecto desarrolla un caso de estudio de analítica de negocio orientado al sector financiero digital, específicamente al análisis del funnel de captación, registro y activación de clientes en una Afore. El caso se plantea como un ejercicio de portafolio profesional y preparación para entrevistas, por lo que utiliza un enfoque semi hipotético, técnicamente sólido y alineado con problemáticas reales de adquisición y conversión en servicios financieros.
+Este proyecto desarrolla un caso de estudio de analítica de negocio orientado al sector financiero digital, específicamente al análisis del funnel de captación, registro y activación de clientes en una Afore. El caso se plantea como un ejercicio de portafolio profesional y preparación , por lo que utiliza un enfoque semi hipotético, técnicamente sólido y alineado con problemáticas reales de adquisición y conversión en servicios financieros.
 
 
 ## Problema de negocio
