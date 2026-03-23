@@ -55,11 +55,8 @@ El proyecto se desarrolló de forma end-to-end en nueve etapas:
 
 6\. Análisis exploratorio y visualizaciones en Python.
 
-7\. Modelo predictivo básico para estimar probabilidad de conversión.
+7\. Diseño de dashboard ejecutivo en Power BI.
 
-8\. Diseño de dashboard ejecutivo en Power BI.
-
-9\. Storytelling del caso para entrevista.
 
 
 
