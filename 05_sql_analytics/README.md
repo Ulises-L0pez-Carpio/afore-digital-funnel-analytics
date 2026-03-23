@@ -500,13 +500,13 @@ Esta fase demuestra capacidad para:
 
 
 
-1\. Abrir la base sintética ubicada en `../03\_synthetic\_data/`.
+1\. Abrir la base sintética ubicada en `../03_synthetic_data/`.
 
 2\. Asegurarse de que las tablas utilizadas por el script estén disponibles.
 
-3\. Ejecutar `05\_sql\_analytics\_funnel\_afore.sql` en SQLite.
+3\. Ejecutar `05_sql_analytics_funnel_afore.sql` en SQLite.
 
-4\. Revisar primero la creación de la vista `vw\_journey\_base`.
+4\. Revisar primero la creación de la vista `vw_journey_base`.
 
 5\. Ejecutar los bloques analíticos según la pregunta de negocio de interés.
 
@@ -554,7 +554,7 @@ Esta fase se conecta directamente con:
 
 
 
-\- \[Ver script SQL analítico](./05\_sql\_analytics\_funnel\_afore.sql)
+\- [Ver script SQL analítico](./05\_sql\_analytics\_funnel\_afore.sql)
 
 
 
