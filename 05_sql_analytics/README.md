@@ -546,7 +546,7 @@ Esta fase se conecta directamente con:
 
 \- [`../06\_python\_eda/`](../06\_python\_eda/) para exploración visual complementaria;
 
-\- [`../07\_powerbi\_dashboard/`](../08\_powerbi\_dashboard/) para el dashboard ejecutivo;
+\- [`../07\_powerbi\_dashboard/`](../07\_powerbi\_dashboard/) para el dashboard ejecutivo;
 
 
 
