@@ -12,7 +12,7 @@ Este script:
 5) evalúa revenue y eficiencia de campañas,
 6) resume hallazgos clave.
 
-Pensado para portafolio y entrevista técnica.
+Pensado para portafolio.
 """
 
 from pathlib import Path
