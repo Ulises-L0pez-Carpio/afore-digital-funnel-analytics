@@ -228,4 +228,50 @@ erDiagram
 
     FACT_LEAD ||--o{ FACT_REGISTRATION : evoluciona
     FACT_REGISTRATION ||--o| FACT_ACTIVATION : desemboca
+```
+
+## Lectura del modelo
+
+### Dimensiones
+
+- **DIM_PROSPECT** concentra atributos del prospecto y variables de segmentación.
+- **DIM_CHANNEL** y **DIM_CAMPAIGN** describen la adquisición digital.
+- **DIM_DEVICE** permite analizar comportamiento por dispositivo.
+- **DIM_FUNNEL_STAGE** normaliza las etapas del funnel.
+
+### Hechos principales
+
+- **FACT_JOURNEY** representa el recorrido integral del usuario.
+- **FACT_SESSION** captura sesiones digitales.
+- **FACT_INTERACTION_EVENT** registra interacciones y eventos clave.
+- **FACT_LEAD** concentra la generación y calificación del lead.
+- **FACT_REGISTRATION** modela el avance y abandono del registro.
+- **FACT_ACTIVATION** representa la adopción posterior al registro.
+- **FACT_JOURNEY_STAGE** permite trazabilidad precisa por etapa del funnel.
+
+## Lógica analítica del modelo
+
+La estructura permite conectar:
+
+**campaña → canal → sesión → interacción → lead → registro → activación**
+
+Esto facilita análisis de:
+
+- conversión por canal;
+- calidad de campañas;
+- abandono por etapa;
+- segmentación de usuarios;
+- desempeño por dispositivo;
+- activación posterior al registro.
+
+## Documentación complementaria
+
+- [Diccionario de datos](./diccionario_datos.pdf)
+- [Reglas de calidad de datos](./reglas_calidad_datos.md)
+- [Versión PDF del DER](./der.pdf)
+- [Imagen del modelo](../assets/data_model/der.png)
+
+## Nota
+
+Este modelo fue diseñado para un caso de estudio con datos sintéticos y fines de portafolio profesional. No representa datos internos de una institución financiera específica.
 
