@@ -1,4 +1,4 @@
-\# Fase 6 · Python: análisis exploratorio y visualizaciones
+# Fase 6 · Python: análisis exploratorio y visualizaciones
 
 
 
@@ -10,7 +10,7 @@ El objetivo de esta etapa es transformar la base analítica del funnel en hallaz
 
 
 
-\## Objetivo de la fase
+## Objetivo de la fase
 
 
 
@@ -34,7 +34,7 @@ Esta fase busca responder preguntas como:
 
 
 
-\## Fuente de datos
+## Fuente de datos
 
 
 
@@ -50,7 +50,7 @@ El script contempla dos rutas posibles para localizar la base y detiene la ejecu
 
 
 
-\## Archivos principales
+## Archivos principales
 
 
 
@@ -62,7 +62,7 @@ El script contempla dos rutas posibles para localizar la base y detiene la ejecu
 
 
 
-\## Qué hace el script
+## Qué hace el script
 
 
 
@@ -70,7 +70,7 @@ El archivo `02\_eda\_funnel\_afore.py` implementa un flujo completo de análisis
 
 
 
-\### 1. Carga de tablas
+### 1. Carga de tablas
 
 
 
@@ -100,7 +100,7 @@ También se genera una revisión inicial del tamaño de las tablas.
 
 
 
-\### 2. Parseo ligero de fechas
+### 2. Parseo ligero de fechas
 
 
 
@@ -108,7 +108,7 @@ Se convierten columnas de fecha y timestamp a tipo datetime para permitir análi
 
 
 
-\### 3. Construcción del dataset maestro a nivel journey
+### 3. Construcción del dataset maestro a nivel journey
 
 
 
@@ -154,7 +154,7 @@ Este dataset concentra en una sola estructura:
 
 
 
-\### 4. Limpieza ligera y métricas base
+### 4. Limpieza ligera y métricas base
 
 
 
@@ -188,7 +188,7 @@ Además se construyen KPIs generales como:
 
 
 
-\### 5. Funnel visual
+### 5. Funnel visual
 
 
 
@@ -218,7 +218,7 @@ Además se generan visualizaciones para:
 
 
 
-\### 6. EDA de sesiones
+### 6. EDA de sesiones
 
 
 
@@ -244,7 +244,7 @@ También se construye un comparativo por canal para evaluar engagement.
 
 
 
-\### 7. Comparación por segmentos
+### 7. Comparación por segmentos
 
 
 
@@ -302,7 +302,7 @@ También se generan visualizaciones para:
 
 
 
-\### 8. Revenue y eficiencia de campañas
+### 8. Revenue y eficiencia de campañas
 
 
 
@@ -338,7 +338,7 @@ Además se generan visualizaciones para:
 
 
 
-\### 9. Tiempo entre etapas y hallazgos automáticos
+### 9. Tiempo entre etapas y hallazgos automáticos
 
 
 
@@ -366,7 +366,7 @@ Finalmente, el script genera hallazgos automáticos sobre:
 
 
 
-\## Principales variables analizadas
+## Principales variables analizadas
 
 
 
@@ -400,7 +400,7 @@ Entre las variables más relevantes del análisis se encuentran:
 
 
 
-\## Visualizaciones generadas
+## Visualizaciones generadas
 
 
 
@@ -434,7 +434,7 @@ El análisis produce visualizaciones orientadas a negocio, entre ellas:
 
 
 
-\## Valor analítico de esta fase
+## Valor analítico de esta fase
 
 
 
@@ -458,7 +458,7 @@ Esta etapa demuestra capacidad para:
 
 
 
-\## Cómo ejecutar esta fase
+## Cómo ejecutar esta fase
 
 
 
@@ -474,7 +474,7 @@ Esta etapa demuestra capacidad para:
 
 
 
-\## Relación con otras fases del proyecto
+## Relación con otras fases del proyecto
 
 
 
@@ -492,7 +492,7 @@ Esta fase se conecta directamente con:
 
 
 
-\## Archivo relacionado
+## Archivo relacionado
 
 
 
@@ -502,7 +502,7 @@ Esta fase se conecta directamente con:
 
 
 
-\## Nota
+## Nota
 
 
 
