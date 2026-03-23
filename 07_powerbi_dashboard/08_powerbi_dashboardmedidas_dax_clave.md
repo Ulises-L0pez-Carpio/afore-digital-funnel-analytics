@@ -1,12 +1,10 @@
-\# Medidas DAX clave
-
+# Medidas DAX clave
 
 
 Este documento resume las medidas DAX principales del dashboard del caso \*\*Afore Digital Funnel Analytics\*\*.
 
 
-
-\## Nota importante
+## Nota importante
 
 
 
@@ -26,11 +24,11 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\## 1. Medidas base de volumen
+## 1. Medidas base de volumen
 
 
 
-\### Total de journeys
+### Total de journeys
 
 
 
@@ -40,7 +38,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Total de leads
+### Total de leads
 
 
 
@@ -56,7 +54,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Total de registros
+### Total de registros
 
 
 
@@ -72,7 +70,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Total de activaciones
+### Total de activaciones
 
 
 
@@ -88,7 +86,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Total de activaciones consolidadas
+### Total de activaciones consolidadas
 
 
 
@@ -108,11 +106,11 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\## 2. Medidas de tasa
+## 2. Medidas de tasa
 
 
 
-\### Tasa de lead
+### Tasa de lead
 
 
 
@@ -122,7 +120,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Tasa de registro
+### Tasa de registro
 
 
 
@@ -132,7 +130,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Tasa de activación final
+### Tasa de activación final
 
 
 
@@ -142,7 +140,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Tasa de activación consolidada
+### Tasa de activación consolidada
 
 
 
@@ -152,7 +150,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Tasa lead a registro
+### Tasa lead a registro
 
 
 
@@ -162,7 +160,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Tasa registro a activación
+### Tasa registro a activación
 
 
 
@@ -176,11 +174,11 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\## 3. Medidas de ingreso y valor
+## 3. Medidas de ingreso y valor
 
 
 
-\### Ingreso estimado total
+### Ingreso estimado total
 
 
 
@@ -190,7 +188,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Ingreso promedio por activación
+### Ingreso promedio por activación
 
 
 
@@ -200,7 +198,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Saldo estimado a 12 meses
+### Saldo estimado a 12 meses
 
 
 
@@ -210,7 +208,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Aportación mensual estimada total
+### Aportación mensual estimada total
 
 
 
@@ -224,11 +222,11 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\## 4. Medidas de retención
+## 4. Medidas de retención
 
 
 
-\### Usuarios retenidos a 7 días
+### Usuarios retenidos a 7 días
 
 
 
@@ -244,7 +242,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Usuarios retenidos a 30 días
+### Usuarios retenidos a 30 días
 
 
 
@@ -260,7 +258,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Retención a 7 días
+### Retención a 7 días
 
 
 
@@ -270,7 +268,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Retención a 30 días
+### Retención a 30 días
 
 
 
@@ -284,11 +282,11 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\## 5. Medidas para campañas
+## 5. Medidas para campañas
 
 
 
-\### Ingreso estimado por campaña
+### Ingreso estimado por campaña
 
 
 
@@ -298,7 +296,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Tasa de activación por campaña
+### Tasa de activación por campaña
 
 
 
@@ -308,7 +306,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### Costo por activación
+### Costo por activación
 
 
 
@@ -324,7 +322,7 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\### ROAS estimado
+### ROAS estimado
 
 
 
@@ -348,11 +346,11 @@ Si el presupuesto vive en una dimensión de campañas y no en la tabla maestra, 
 
 
 
-\## 6. Medidas para segmentación
+## 6. Medidas para segmentación
 
 
 
-\### Tasa de activación
+### Tasa de activación
 
 
 
@@ -374,7 +372,7 @@ Esta medida es la base de varios visuales de la página 3:
 
 
 
-\### Lead quality score promedio
+### Lead quality score promedio
 
 
 
@@ -384,7 +382,7 @@ Esta medida es la base de varios visuales de la página 3:
 
 
 
-\### Ingreso estimado por estado
+### Ingreso estimado por estado
 
 
 
@@ -398,11 +396,11 @@ Esta medida es la base de varios visuales de la página 3:
 
 
 
-\## 7. Medidas temporales
+## 7. Medidas temporales
 
 
 
-\### Activaciones por mes
+### Activaciones por mes
 
 
 
@@ -416,7 +414,7 @@ Se utiliza junto con el eje temporal del modelo de fechas o con la columna de me
 
 
 
-\### Leads por mes
+### Leads por mes
 
 
 
@@ -426,7 +424,7 @@ Se utiliza junto con el eje temporal del modelo de fechas o con la columna de me
 
 
 
-\### Registros por mes
+### Registros por mes
 
 
 
@@ -440,7 +438,7 @@ Se utiliza junto con el eje temporal del modelo de fechas o con la columna de me
 
 
 
-\## 8. Medida para funnel por etapa
+## 8. Medida para funnel por etapa
 
 
 
@@ -482,11 +480,11 @@ Esta medida debe adaptarse a las banderas reales de tu modelo.
 
 
 
-\## 9. Medidas de apoyo para tarjetas narrativas
+## 9. Medidas de apoyo para tarjetas narrativas
 
 
 
-\### Mayor ingreso por canal
+### Mayor ingreso por canal
 
 
 
@@ -506,7 +504,7 @@ Esta medida debe adaptarse a las banderas reales de tu modelo.
 
 
 
-\### Campaña top por activaciones
+### Campaña top por activaciones
 
 
 
@@ -534,11 +532,11 @@ Estas medidas pueden requerir una versión textual adicional si quieres construi
 
 
 
-\## 10. Medidas más importantes por página
+## 10. Medidas más importantes por página
 
 
 
-\### Página 1 · Resumen del funnel digital
+### Página 1 · Resumen del funnel digital
 
 \- `Total Journeys`
 
@@ -558,7 +556,7 @@ Estas medidas pueden requerir una versión textual adicional si quieres construi
 
 
 
-\### Página 2 · Desempeño de campañas digitales
+### Página 2 · Desempeño de campañas digitales
 
 \- `Total Journeys`
 
@@ -578,7 +576,7 @@ Estas medidas pueden requerir una versión textual adicional si quieres construi
 
 
 
-\### Página 3 · Desempeño por segmentos
+### Página 3 · Desempeño por segmentos
 
 \- `Tasa de Activación`
 
@@ -592,7 +590,7 @@ Estas medidas pueden requerir una versión textual adicional si quieres construi
 
 
 
-\### Página 4 · Activación y valor de negocio
+### Página 4 · Activación y valor de negocio
 
 \- `Total Activaciones`
 
@@ -610,7 +608,7 @@ Estas medidas pueden requerir una versión textual adicional si quieres construi
 
 
 
-\## Conclusión
+## Conclusión
 
 
 
