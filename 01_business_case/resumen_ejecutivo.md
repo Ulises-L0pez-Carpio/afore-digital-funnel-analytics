@@ -1,8 +1,8 @@
-\# Resumen ejecutivo
+# Resumen ejecutivo
 
 
 
-\## Visión general
+## Visión general
 
 
 
