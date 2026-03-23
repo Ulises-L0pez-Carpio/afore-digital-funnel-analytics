@@ -4,7 +4,7 @@ Este dataset fue generado con base en el brief del caso y el DER del proyecto. E
 
 ## Qué incluye
 
-* **Script principal:** `synthetic\\\_afore\\\_funnel\\\_generator.py`
+* **Script principal:** `synthetic_afore_funnel_generator.py`
 * **Base SQLite:** `synthetic\\\_afore\\\_funnel.db`
 * **CSVs del esquema completo del DER**
 * **CSVs simplificados** para análisis rápido:
