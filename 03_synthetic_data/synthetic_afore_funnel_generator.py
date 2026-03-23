@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 """
-Generador de conjuntos de datos sintéticos para funnels digitales, para un caso de uso de Afore.
+Generador de conjuntos de datos sintéticos para funnels digitales, para un caso de uso en este proyecto.
 
 Resultados:
 - Tablas completas con esquema de estrella, alineadas con el DER del proyecto.
