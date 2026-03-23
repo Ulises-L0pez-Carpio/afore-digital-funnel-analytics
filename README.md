@@ -216,8 +216,8 @@ Entre los hallazgos más relevantes del proyecto destacan:
 
 ### Dashboard
 - [Dashboard en Power BI](07_powerbi_dashboard/README.md)
-- [Estructura del dashboard](08_powerbi_dashboardestructura_dashboard.md)
-- [Medidas DAX clave](08_powerbi_dashboardmedidas_dax_clave.md)
+- [Estructura del dashboard](07_powerbi_dashboard/07_powerbi_dashboardestructura_dashboard.md)
+- [Medidas DAX clave](07_powerbi_dashboard/07_powerbi_dashboardmedidas_dax_clave.md)
 
 
 ## Valor del proyecto para portafolio
