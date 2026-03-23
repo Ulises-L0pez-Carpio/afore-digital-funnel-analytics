@@ -1,7 +1,7 @@
 # Medidas DAX clave
 
 
-Este documento resume las medidas DAX principales del dashboard del caso \*\*Afore Digital Funnel Analytics\*\*.
+Este documento resume las medidas DAX principales del dashboard del caso **Afore Digital Funnel Analytics**.
 
 
 ## Nota importante
@@ -16,11 +16,7 @@ Por ello, estas fórmulas deben adaptarse al modelo exacto cargado en Power BI.
 
 
 
-Para efectos de documentación, se asume una tabla principal tipo `Journey\_Master` con granularidad de 1 fila por `journey\_id`.
-
-
-
-\---
+Para efectos de documentación, se asume una tabla principal tipo `Journey_Master` con granularidad de 1 fila por `journey_id`.
 
 
 
@@ -102,9 +98,6 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\---
-
-
 
 ## 2. Medidas de tasa
 
@@ -170,8 +163,6 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\---
-
 
 
 ## 3. Medidas de ingreso y valor
@@ -216,9 +207,6 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 &#x20;   SUM ( Journey\_Master\[estimated\_monthly\_contribution] )
 
-
-
-\---
 
 
 
@@ -278,8 +266,6 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 
 
-\---
-
 
 
 ## 5. Medidas para campañas
@@ -320,29 +306,6 @@ Para efectos de documentación, se asume una tabla principal tipo `Journey\_Mast
 
 &#x20;   )
 
-
-
-### ROAS estimado
-
-
-
-&#x20;   ROAS Estimado =
-
-&#x20;   DIVIDE (
-
-&#x20;       \[Ingreso Estimado Total],
-
-&#x20;       SUM ( Journey\_Master\[budget\_amount] )
-
-&#x20;   )
-
-
-
-Si el presupuesto vive en una dimensión de campañas y no en la tabla maestra, esta medida debe recalcularse sobre esa tabla.
-
-
-
-\---
 
 
 
@@ -392,9 +355,6 @@ Esta medida es la base de varios visuales de la página 3:
 
 
 
-\---
-
-
 
 ## 7. Medidas temporales
 
@@ -434,9 +394,6 @@ Se utiliza junto con el eje temporal del modelo de fechas o con la columna de me
 
 
 
-\---
-
-
 
 ## 8. Medida para funnel por etapa
 
@@ -472,11 +429,8 @@ Si el visual de embudo se alimenta de una tabla de etapas, puede usarse una medi
 
 
 
-Esta medida debe adaptarse a las banderas reales de tu modelo.
+Esta medida debe adaptarse a las banderas reales de tu cualquier modelo similar.
 
-
-
-\---
 
 
 
@@ -522,13 +476,6 @@ Esta medida debe adaptarse a las banderas reales de tu modelo.
 
 &#x20;   )
 
-
-
-Estas medidas pueden requerir una versión textual adicional si quieres construir tarjetas o narrativas dinámicas.
-
-
-
-\---
 
 
 
