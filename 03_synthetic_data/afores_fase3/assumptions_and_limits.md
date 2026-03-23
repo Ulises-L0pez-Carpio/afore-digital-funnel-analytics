@@ -1,8 +1,8 @@
-\# Assumptions and limits
+# Assumptions and limits
 
 
 
-\## Supuestos principales
+## Supuestos principales
 
 
 
@@ -10,7 +10,7 @@ El dataset fue construido bajo supuestos orientados a representar un funnel digi
 
 
 
-\## Limitaciones
+## Limitaciones
 
 
 
@@ -30,7 +30,7 @@ Este dataset es sintético y, por tanto:
 
 
 
-\## Alcance de uso
+## Alcance de uso
 
 
 
