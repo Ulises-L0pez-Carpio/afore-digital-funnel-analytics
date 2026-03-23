@@ -280,11 +280,11 @@ El dashboard está pensado para:
 Esta fase se conecta directamente con:
 
 
-\- [`../04\_sql\_base/`](../04\_sql\_base/) como capa técnica base del funnel;
+\- [`../04\_sql\_base/`](../04\_sql\_base/) 
 
-\- [`../05\_sql\_analytics/`](../05\_sql\_analytics/) como capa SQL ejecutiva;
+\- [`../05\_sql\_analytics/`](../05\_sql\_analytics/) 
 
-\- [`../06\_python\_eda/`](../06\_python\_eda/) como capa SQL ejecutiva;
+\- [`../06\_python\_eda/`](../06\_python\_eda/)
 
 
 ## Nota
