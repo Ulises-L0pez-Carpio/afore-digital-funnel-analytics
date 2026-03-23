@@ -136,13 +136,13 @@ El análisis parte de varias hipótesis clave:
 
 
 
-\- \*\*SQL\*\* para validación, limpieza, joins, construcción del funnel y métricas analíticas.
+\- **SQL** para validación, limpieza, joins, construcción del funnel y métricas analíticas.
 
-\- \*\*Python\*\* para análisis exploratorio, visualizaciones y modelado predictivo.
+\- **Python** para análisis exploratorio, visualizaciones y modelado predictivo.
 
-\- \*\*Power BI\*\* para diseño de dashboard ejecutivo.
+\- **Power BI** para diseño de dashboard ejecutivo.
 
-\- \*\*SQLite / dataset sintético\*\* como base del caso de estudio.
+\- **SQLite  dataset sintético** como base del caso de estudio.
 
 
 
