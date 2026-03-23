@@ -10,9 +10,9 @@ Este documento resume las medidas DAX principales del dashboard del caso **Afore
 
 Las medidas que aparecen a continuación están redactadas como una propuesta consistente con el dashboard construido.  
 
-Es posible que en tu archivo `.pbix` cambien los nombres de tablas o columnas.  
+Es posible que en el archivo `.pbix` del repositorio cambien los nombres de tablas o columnas.  
 
-Por ello, estas fórmulas deben adaptarse al modelo exacto cargado en Power BI.
+Por ello, estas fórmulas deben de checarse con las que coloque en el  modelo exacto cargado en Power BI.
 
 
 
